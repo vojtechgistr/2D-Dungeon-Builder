@@ -1,3 +1,5 @@
+// Too lazy to finish it. Maybe one day
+
 #include "dungeonBuilder.h"
 
 DungeonBuilder::DungeonBuilder() = default;
